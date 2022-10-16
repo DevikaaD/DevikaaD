@@ -7,7 +7,7 @@ Hi, I'm a Product Management Enthusiast 🚀 from India. I'm a currently passion
   
 *Talking about Personal Stuffs:*
 
-- 👨🏽‍💻 I’m currently working on TinkerHub Foundation;
+- 👨🏽‍💻 I’m currently working at TinkerHub Foundation;
 - 🌱 I’m interested in learning Ux; 
 - 💬 Ask me, I am happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devikaa-d/);
